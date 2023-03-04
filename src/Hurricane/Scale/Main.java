@@ -1,4 +1,4 @@
-package edu.cscc;
+package Hurricane.Scale;
 import java.util.*;
 
 // Megan Garcia-Basanez, 1/25/2023, Hurricane Wind Scale
